@@ -11,14 +11,13 @@
  
 - ⚡ open for discussion on **Data Structure and Algorithm**
 <br>
+<div>
 <details>
  <summary><b>GitHub Statistics</b></summary>
- <div>
 <span><img src="https://github-readme-stats.vercel.app/api?username=namanbisht08&show_icons=true&locale=en" alt="namanbisht08" widht="400px"/></span>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanbisht08&show_icons=true&locale=en&layout=compact" alt="namanbisht08" /></span>
- </div>
-  </details>
-<br>
+ </details>
+</div>
 <div>
 <h3 align="left">Find me @</h3>
 <p align="left">
