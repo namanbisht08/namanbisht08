@@ -21,12 +21,10 @@
 <div>
 <h3 align="left">Find me @</h3>
 <p align="left">
-<a href="https://codepen.io/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="namanbisht08" height="30" width="40" /></a>
 <a href="https://twitter.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanbisht08" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-singh-bisht-98a42a187/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-singh-bisht-98a42a187/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/namanbisht08" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="namanbisht08" height="30" width="40" /></a>
 <a href="https://instagram.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namanbisht08" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/namanbisht08" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="namanbisht08" height="30" width="40" /></a>
+<a href="https://leetcode.com/namanbisht08/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/56620879/130318358-a8da743f-63f2-4038-89a2-2cccb7418f41.png" alt="namanbisht08" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="namanbisht08" height="30" width="40" /></a>
 <a href="https://discord.gg/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="namanbisht08" height="30" width="40" /></a>
 </p>
