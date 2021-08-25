@@ -32,6 +32,7 @@
  <summary><b>GitHub Statistics</b></summary>
 <span><img src="https://github-readme-stats.vercel.app/api?username=namanbisht08&show_icons=true&locale=en" alt="namanbisht08" widht="400px"/></span>
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanbisht08&show_icons=true&locale=en&layout=compact" alt="namanbisht08" /></span>
+ <span><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanbisht08&" alt="namanbisht08" /></p></span>
  </details>
 </div>
 <div>
