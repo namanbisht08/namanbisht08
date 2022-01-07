@@ -1,38 +1,87 @@
-<h1 align="center">Hi 👋, I'm Naman Singh Bisht</h1>
-<h3 align="center">A passionate Full-Stack developer from India.</h3>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namanbisht08&label=Profile%20views&color=0e75b6&style=flat" alt="namanbisht08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jatin-Shihora&label=Profile%20views&color=0e75b6&style=flat" alt="Naman Singh Bisht" /> </p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-- 🔭 I’m currently working on **project to make E-commerce web application using [MERN] stack**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Naman Singh Bisht</h1>
+<h3 align="center">I'm a passionate Software Developer from India.</h3>
 
-- 🌱 I’m currently learning **React,Express,Mongoose,React Native**
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on a **[E-comm web app](/)**
+
+- 🌱 I’m currently learning **React.js**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 😄 Employement ... Open for internships opportunities
+
+- 💬 Ask me about ... Web Development, Data Structures & Algorithms
+
+- 🎓 To be graduated in 2023
 
 - 📫 How to reach me **namanbisht84@gmail.com**
- 
-- ⚡ open for discussion on **Data Structure and Algorithm**
+<!---
+- ⚡ Fun fact **I play E-games and go to the GYM very.**
+  --->
 
-<h3 align="left">Find me @</h3>
-<p align="left">
-<a href="https://twitter.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanbisht08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naman-singh-bisht-98a42a187/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naman-singh-bisht-98a42a187/" height="30" width="40" /></a>
-<a href="https://instagram.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namanbisht08" height="30" width="40" /></a>
-<a href="https://leetcode.com/namanbisht08/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/56620879/130318358-a8da743f-63f2-4038-89a2-2cccb7418f41.png" alt="namanbisht08" height="30" width="120" /></a>
-<a href="https://www.hackerrank.com/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="namanbisht08" height="30" width="40" /></a>
-<a href="https://discord.gg/namanbisht08" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="namanbisht08" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+
+<p align="center"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.cplusplus.com/"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/XML/XML_introduction"  target="_blank"> <img src="https://img.icons8.com/color-glass/48/000000/xml.png"/> </a> 
+    <a href="https://www.json.org/json-en.html"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/json-download.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href=" https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github--v3.png"/> </a> 
+    <a href="https://www.codechef.com/users/naman_bisht08" target="_blank"> <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg" height="30" width="120"/> </a>
+    <a href="https://leetcode.com/namanbisht08/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/56620879/130318358-a8da743f-63f2-4038-89a2-2cccb7418f41.png" alt="namanbisht08" height="30" width="120" /></a>
 </p>
- </div>
-<div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
-</div>
 
-<br>
-<div>
-<details>
- <summary><b>GitHub Statistics</b></summary>
-<span><img src="https://github-readme-stats.vercel.app/api?username=namanbisht08&show_icons=true&locale=en" alt="namanbisht08" widht="400px"/></span>
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namanbisht08&show_icons=true&locale=en&layout=compact" alt="namanbisht08" /></span>
- <span><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanbisht08&" alt="namanbisht08" /></p></span>
- </details>
-</div>
-<div>
+<br/>
+
+<p align="center">
+    <a href="https://github.com/namanbisht08/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jatin Shihora's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namanbisht08&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/namanbisht08/github-readme-stats"><img alt="namanbisht08's Github Stats" src="https://github-readme-stats.vercel.app/api?username=namanbisht08&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/namanbisht08/github-readme-stats"><img alt="Jatin Shihora's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanbisht08&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages that my public code has.
+
+<br/>
+<br/>
+
+<a href="https://github.com/namanbisht08/github-readme-activity-graph"><img alt="namanbisht08's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=namanbisht08&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+---
+
+### Some Trophies I have, don't know what for:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=namanbisht08&column=10&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## Connect with me:
+
+<p align="center">
+
+<a href = "https://www.linkedin.com/in/naman-singh-bisht/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://github.com/namanbisht08/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+<a href = "mailto: namanbisht84@gmail.com"><img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/50/000000/external-mail-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png"/></a>
+<a href = "https://www.instagram.com/namanbisht08/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
