@@ -6,10 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **[E-comm web app](/)**
-
-- 🌱 I’m currently learning **React.js**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 😄 Employement ... Open for internships opportunities
